@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio-2024/static/css/main.9cfb3bbe.css",
-    "main.js": "/personal-portfolio-2024/static/js/main.f43ae4ff.js",
+    "main.js": "/personal-portfolio-2024/static/js/main.c26c48ba.js",
     "static/js/453.298f5782.chunk.js": "/personal-portfolio-2024/static/js/453.298f5782.chunk.js",
     "static/media/proj6.png": "/personal-portfolio-2024/static/media/proj6.bbda91ca7f209247913f.png",
     "static/media/Shiva_Gajendrula_Resume.pdf#toolbar=0": "/personal-portfolio-2024/static/media/Shiva_Gajendrula_Resume.6a26f7645c161295c4a5.pdf",
@@ -12,11 +12,11 @@
     "static/media/proj4.webp": "/personal-portfolio-2024/static/media/proj4.21aa3100d2e1859f6029.webp",
     "index.html": "/personal-portfolio-2024/index.html",
     "main.9cfb3bbe.css.map": "/personal-portfolio-2024/static/css/main.9cfb3bbe.css.map",
-    "main.f43ae4ff.js.map": "/personal-portfolio-2024/static/js/main.f43ae4ff.js.map",
+    "main.c26c48ba.js.map": "/personal-portfolio-2024/static/js/main.c26c48ba.js.map",
     "453.298f5782.chunk.js.map": "/personal-portfolio-2024/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cfb3bbe.css",
-    "static/js/main.f43ae4ff.js"
+    "static/js/main.c26c48ba.js"
   ]
 }
