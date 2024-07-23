@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-2024/static/css/main.9cfb3bbe.css",
+    "main.js": "/personal-portfolio-2024/static/js/main.f43ae4ff.js",
+    "static/js/453.298f5782.chunk.js": "/personal-portfolio-2024/static/js/453.298f5782.chunk.js",
+    "static/media/proj6.png": "/personal-portfolio-2024/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/Shiva_Gajendrula_Resume.pdf#toolbar=0": "/personal-portfolio-2024/static/media/Shiva_Gajendrula_Resume.6a26f7645c161295c4a5.pdf",
+    "static/media/proj5.jpg": "/personal-portfolio-2024/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj3.webp": "/personal-portfolio-2024/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/personal-portfolio-2024/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/personal-portfolio-2024/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/personal-portfolio-2024/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "index.html": "/personal-portfolio-2024/index.html",
+    "main.9cfb3bbe.css.map": "/personal-portfolio-2024/static/css/main.9cfb3bbe.css.map",
+    "main.f43ae4ff.js.map": "/personal-portfolio-2024/static/js/main.f43ae4ff.js.map",
+    "453.298f5782.chunk.js.map": "/personal-portfolio-2024/static/js/453.298f5782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cfb3bbe.css",
+    "static/js/main.f43ae4ff.js"
+  ]
+}
